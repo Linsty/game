@@ -1,0 +1,13 @@
+{
+  "name": "157-dynamic-import",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "author": "Maarten Hus",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "14.0.0"
+  }
+}
