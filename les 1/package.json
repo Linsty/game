@@ -5,7 +5,7 @@
   "scripts": {
     "start": "http-server -c-1"
   },
-  "author": "Maarten Hus",
+  "author": "Marcia van den Hout",
   "license": "ISC",
   "dependencies": {
     "http-server": "14.0.0"
